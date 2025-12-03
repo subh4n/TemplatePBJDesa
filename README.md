@@ -1,6 +1,6 @@
-# ReguBot | Regulasi ChatBot 🤖
+# TemplatePBJDesa | Regulasi dan Template PBJ Desa ChatBot 🤖
 
-**ReguBot** adalah aplikasi berbasis **Streamlit** yang dirancang untuk membantu pengguna menjawab pertanyaan terkait regulasi pengadaan barang/jasa di Indonesia. Aplikasi ini dapat membaca dokumen PDF, memprosesnya, dan menjawab pertanyaan menggunakan model **Google Gemini** sambil tetap mematuhi regulasi yang berlaku.
+**TemplatePBJDesa** adalah aplikasi berbasis **Streamlit** yang dirancang untuk membantu pengguna menjawab pertanyaan terkait regulasi pengadaan barang/jasa di Desa dan Bagaimana Bentuk Template PBJ Desa. Aplikasi ini dapat membaca dokumen PDF, memprosesnya, dan menjawab pertanyaan menggunakan model **Google Gemini** sambil tetap mematuhi regulasi yang berlaku.
 
 ---
 
@@ -19,7 +19,7 @@
 1. **Clone repository ini:**
 
 ```bash
-git clone https://github.com/YonaFr/ReguBot.git
+git clone https://github.com/Subh4n/TemplatePBJDesa.git
 cd ReguBot
 ```
 
@@ -97,7 +97,7 @@ Jika ingin menambah fitur, regulasi, atau memperbaiki bug, silakan buat **pull r
 ## Lisensi
 
 * [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-* © 2025. Yona Friantina. Some rights reserved.
+* © 2025. Yona FriantinaNurus Subhan. Some rights reserved.
 
 ---
 
