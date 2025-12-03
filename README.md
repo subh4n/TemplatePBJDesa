@@ -97,7 +97,7 @@ Jika ingin menambah fitur, regulasi, atau memperbaiki bug, silakan buat **pull r
 ## Lisensi
 
 * [Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-* © 2025. Yona FriantinaNurus Subhan. Some rights reserved.
+* © 2025. Nurus Subhan. Some rights reserved.
 
 ---
 
