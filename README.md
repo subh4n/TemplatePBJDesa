@@ -81,9 +81,9 @@ Regulasi tertentu dapat **dikecualikan** agar tidak disertakan dalam jawaban.
 
 ## Catatan Penggunaan
 
-* Jawaban yang diberikan ReguBot **harus selalu diverifikasi** terutama jika berkaitan dengan keputusan hukum penting.
+* Jawaban yang diberikan TemplatePBJDesa **harus selalu diverifikasi** terutama jika berkaitan dengan keputusan hukum penting.
 * ReguBot **tidak membuat asumsi tentang pasal atau ayat** yang tidak ada dalam regulasi.
-* Jika pertanyaan tidak terkait regulasi, ReguBot tetap dapat memberikan jawaban berbasis sumber eksternal.
+* Jika pertanyaan tidak terkait regulasi, TemplatePBJDesa tetap dapat memberikan jawaban berbasis sumber eksternal.
 
 ---
 
